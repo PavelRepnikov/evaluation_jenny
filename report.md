@@ -51,7 +51,7 @@ The evaluation was performed using Python in a local environment. The code for t
 
 ### 3.2 Documentation and Usage Instructions
 
-The repository includes a detailed README file that explains how to install dependencies, run the evaluation, and understand the output metrics. Comments are included throughout the code to guide users on the setup and usage.
+The repository includes a detailed .ipynb files, with commentary on what the files are and what to do with them.
 
 ---
 
